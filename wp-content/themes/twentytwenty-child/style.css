@@ -1,0 +1,43 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Description:  Twenty Twenty Child Theme
+ Author:       Manan Patel
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.site-title{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+.site-title a:hover{
+    background-color: beige;
+    color: brown;
+
+}
+
+.entry-title{
+    color: Red;
+}
+
+.site-footer{
+    background-color: darkkhaki;
+    font-size: 45px;
+}
+
+.primary-menu{
+    background-color: beige;
+}
+
+.primary-menu a:hover{
+    background-color: cyan;
+    color: black
+}
